@@ -1,10 +1,15 @@
-As part of an internship at a unicorn, I worked on a paper on Digital Twin Technology, it's scope at large and in the FMCG sector in particular. 
+As part of my most recent internship at a unicorn, I worked on a paper on Digital Twin Technology, it's scope at large and in the FMCG sector in particular. 
 The paper included a detailed understanding of the technology, its current usage in the manufacturing sector and how it can be integrated into the FMCG sector. 
 Within the FMCG sector, there were 5 major verticals that were covered in the paper, including:
+
 1. 
+
 2. 
+
 3. 
+
 4.
+
 5.
 
 To support its usage in Supply Chain and Logistics, as one such space where the technology holds benefits, a sales forecasting model was built, and its results were
