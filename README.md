@@ -36,3 +36,6 @@ random forest regression model was chosen, and the same was mentioned in the pap
 To better showcase the data a dashboard was also constructed. 
 
 Since the data is hypothetical in this case, the code and dashboard only serve to showcase the potential of the technology if it were to be put to use. 
+
+Attached below is a screenshot of the dashboard constructed, that can also be downloaded from the repository along with the notebook.
+
