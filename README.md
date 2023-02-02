@@ -2,17 +2,17 @@ As part of my most recent internship at a unicorn, I worked on a paper on Digita
 The paper included a detailed understanding of the technology, its current usage in the manufacturing sector and how it can be integrated into the FMCG sector. 
 Within the FMCG sector, there were 5 major verticals that were covered in the paper, including:
 
-1. 
+1. Smart Manufacturing
 
-2. 
+2. Product Design
 
-3. 
+3. Inventory Management 
 
-4.
+4. Marketing
 
-5.
+5. Logistics
 
-To support its usage in Supply Chain and Logistics, as one such space where the technology holds benefits, a sales forecasting model was built, and its results were
+To support its usage in Logistics, as one such space where the technology holds benefits, a sales forecasting model was built, and its results were
 included in the paper. It was used as an example to support a proposal to integrate machine learning into the model.
 
 The working would include:
@@ -22,5 +22,14 @@ The working would include:
 before implementing it in the physical model.
 4. This would help save time and money spend in first building prototypes and then carrying out implementation. 
 
-The project was part of R&D for an internation client at the firm. The research paper I worked on was presented on conclusion of my internship, to the team and partners
-and is currently in pipeline. 
+The project was part of R&D for an international client of the firm. The research paper I worked on was presented upon conclusion of my internship, to the team and partners and is currently in the pipeline. 
+
+Four models were trained and the R2 Score for all for were as follows:
+
+1. Linear Regression : 76.25%
+2. Random Forest Regression : 83.32%
+3. Decision Tree Model : 79.98%
+4. Support Vector Regression Model : 76.0069%
+
+The R2 score is a measure of the accuracy of the model, therefore higher the R2 score the more accurate would be the predictions. Hence the random forest regression
+model was chosen, and the same was mentioned in the paper. 
