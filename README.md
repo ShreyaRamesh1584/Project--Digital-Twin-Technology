@@ -31,5 +31,8 @@ Four models were trained and the R2 Score for all for were as follows:
 3. Decision Tree Model : 79.98%
 4. Support Vector Regression Model : 76.0069%
 
-The R2 score is a measure of the accuracy of the model, therefore higher the R2 score the more accurate would be the predictions. Hence the random forest regression
-model was chosen, and the same was mentioned in the paper. 
+The R2 score is a measure of the variablity in data that the model can handle, therefore higher the R2 score the more accurate would be the predictions. Hence the
+random forest regression model was chosen, and the same was mentioned in the paper. 
+To better showcase the data a dashboard was also constructed. 
+
+Since the data is hypothetical in this case, the code and dashboard only serve to showcase the potential of the technology if it were to be put to use. 
