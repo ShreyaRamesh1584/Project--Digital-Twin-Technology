@@ -39,3 +39,6 @@ Since the data is hypothetical in this case, the code and dashboard only serve t
 
 Attached below is a screenshot of the dashboard constructed, that can also be downloaded from the repository along with the notebook.
 
+![Screenshot 2023-02-02 200602](https://user-images.githubusercontent.com/107060022/216353779-977876cb-d7af-4516-ad59-91008e557ec2.png)
+
+
