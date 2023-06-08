@@ -20,7 +20,7 @@ The working would include:
 2. This data would then be fed into the model, to forecast results.
 3. The digital twin could then be used to change and tweak key parameters to understand its effect on key business parameters (5 of its use cases as mentioned above)
 before implementing it in the physical model.
-4. This would help save time and money spend in first building prototypes and then carrying out implementation. 
+4. This would help save time and money spent in first building prototypes and then carrying out implementation. 
 
 The project was part of R&D for an international client of the firm. The research paper I worked on was presented upon conclusion of my internship, to the team and partners and is currently in the pipeline. 
 
